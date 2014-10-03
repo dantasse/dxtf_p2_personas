@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="792" height="612" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_1" y2="306" x2="792" y1="306" x1="0" stroke-miterlimit="10" stroke="#000000" fill="none"/>
+  <line id="svg_2" y2="612" x2="396" y1="0" x1="396" stroke-miterlimit="10" stroke="#000000" fill="none"/>
+  <text id="svg_3" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,8.1523,292.8135) ">Frustrated</text>
+  <text id="svg_4" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,720.2539,292.8135) ">Content</text>
+  <text id="svg_5" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,406,22.4414) ">Mobile (Physically and Socially)</text>
+  <text id="svg_6" font-size="12" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,406,603.5078) "/>
+  <text id="svg_7" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,406,603.5068) ">Stuck</text>
+  <text id="svg_8" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,703.5,408.5) ">Manuel</text>
+  <text id="svg_9" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,670.5,178.5) ">Erica</text>
+  <text id="svg_10" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,89.5,528.5) ">Gautam</text>
+  <text x="205" y="0" fill="black" id="svg_11" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,89.5,71.5) ">Calvin</text>
+  <text id="svg_12" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,609.5,280.5) ">Francesca</text>
+  <text id="svg_13" font-size="18" font-family="&#x27;MyriadPro-Regular'" transform="matrix(1,0,0,1,208.5,285.5) ">Carrie</text>
+ </g>
+</svg>
