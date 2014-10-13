@@ -91,6 +91,8 @@ The people in orange will be the focus of this project.
 
 ## Mandalas
 
+(photo credits below)
+
 - [Manuel](images/mandala-manuel.png)
 - [Erica](images/mandala-erica.png)
 - [Gautam](images/mandala-gautam.png)
@@ -116,3 +118,10 @@ The people in orange will be the focus of this project.
 - Francesca: <http://www.flashcoo.com/photography/asian_children_photography/images/Cute_Asian_Children_photos_HU121_350A.jpg>
 - Emilia: <http://thumbs.dreamstime.com/z/very-happy-asian-baby-girl-23757603.jpg>
 
+Photos in mandalas:
+
+- Manuel: [car](http://recodetech.files.wordpress.com/2014/05/early-vehicle-lores.jpg) [disc golf](http://www.roanokeoutside.com/ckfinder/userfiles/images/discgolfroanoke.jpg) [Ohio City](http://greaterclevelandlife.com/wp-content/uploads/2011/01/westsidemarket1.jpg) 
+- Erica: [drone](http://eat3d.com/files/forum_images/repair_drone_turnaround_0.jpg) [coffee](http://a57.foxnews.com/global.fncstatic.com/static/managed/876/493/660coffee.jpg?ve=1&tl=1) [video games](http://4.bp.blogspot.com/-tE8Q4t_vwwk/Ubg5c7t6W-I/AAAAAAAABak/AH8OiRkwtm8/s1600/gamers+playing.jpg)
+- Gautam: [basketball](http://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png) [nuclear plant](http://www.exponent.com/files/Uploads/Images/Energy/nuclear%20plant.jpg) [playground](http://www.thenutritionpost.com/wp-content/uploads/2012/11/wck-playground.jpg) [India flag](http://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/225px-Flag_of_India.svg.png)
+- Carrie: [Jobs with justice](http://nwlaborpress.org/wp-content/uploads/2012/08/JWJ.jpg) [WWF](https://pbs.twimg.com/profile_images/2660841391/5cc10cbb06e9288e12f90e681863bad7_400x400.png) [playground](http://www.thenutritionpost.com/wp-content/uploads/2012/11/wck-playground.jpg) 
+- Calvin: [guitar](http://0f9837bb1d8aa610a84a-102a6ca990457d67fd96fbe768cb23f2.r50.cf3.rackcdn.com/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/g/i/gibson_j-35_electro_acoustic_guitar.jpg) [St. Louis](http://www.slu.edu/Images/arts_sciences_files/cmrs/StLouis1.jpg) [drone](http://images.politico.com/global/2014/02/21/140221_drone_ap_605.jpg) [Pro Tools](http://i1-win.softpedia-static.com/screenshots/Pro-Tools-M-Powered_1.png)
