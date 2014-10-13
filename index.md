@@ -98,6 +98,7 @@ The people in orange will be the focus of this project.
 - [Calvin](images/mandala-calvin.png)
 
 ## Day in the Life
+[script](script.txt)  
 [pdf](images/storyboard.pdf)
 
 ## Photo credits
