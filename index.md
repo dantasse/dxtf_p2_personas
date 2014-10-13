@@ -2,7 +2,7 @@
 
 # Dexign the Future Project 2
 
-Three Generation Personas
+Three Generation Personas  
 Dan Tasse
 
 ## What world do they live in?
@@ -22,7 +22,7 @@ The [Shell Mountains scenario](http://www.shell.com/global/future-energy/scenari
 - **Calvin** (b. 2021) - second biological child of Manuel and Erica. The youngest in the family, he's always been a bit shy, but he channeled his energy into his music, becoming a skilled guitarist. He knew since an early age, though, that there'd be no money in that, so he's acquired a wide array of music-related jobs in the meantime. Uses a vintage Macbook to create techno-inspired loops to mimic early 2000s music to DJ in a dance club, teaches musical-mental augmentation to rich kids, performs occasionally as an acoustic guitarist inspired by very technical metal. Had a bout of addiction to designer uppers during his more intense DJing days, but has been clean since. Still, his life has been too busy to "settle down"; he's not sure if he ever will, and he's comfortable with that.
 - Amelia (b. 2019), Ray (b. 2018), Colin (b. 2022), Andrew (b. 2046), Graham (b. 2048). Amelia is the first biological child of Manuel and Erica. Ray and Colin are both members of her poly family, and they have two children, Andrew and Graham. Won't talk more about these in this project, because we have to focus somewhere.
 
-<img src="images/family.svg" />    
+<img src="images/family.png" />    
 The people in orange will be the focus of this project.
 
 ## Timeline
