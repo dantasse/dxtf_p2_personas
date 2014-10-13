@@ -7,7 +7,7 @@ Dan Tasse
 
 ## What world do they live in?
 
-The Shell Mountains scenario. An extension of the current status quo. Those with power tend to slowly gain more power, and authority becomes more concentrated in a few cities. Social mobility is stifled, though the US government tries to create the illusion that society is more mobile than it is. Central planning leads the world to slowly transition to natural gas, then to renewable resources, before climate change gets too radically out of hand.
+The [Shell Mountains scenario](http://www.shell.com/global/future-energy/scenarios/new-lens-scenarios.html). An extension of the current status quo. Those with power tend to slowly gain more power, and authority becomes more concentrated in a few cities. Government creates more broad mandates than they did in the early 2000s. Social mobility is stifled, though the US government tries to create the illusion that society is more mobile than it is. Central planning leads the world to slowly transition to natural gas, then to renewable resources, before climate change gets too radically out of hand.
 
 ## The Family
 
@@ -89,5 +89,11 @@ The people in orange will be the focus of this project.
 ## 2x2 Important Dimensions
 <img src='images/2x2.svg' /img>
 
-## Mandala: Calvin
-<img src='images/mandala.png' /img>
+## Mandalas
+
+- [Manuel](images/mandala-manuel.png)
+- [Erica](images/mandala-erica.png)
+- [Gautam](images/mandala-gautam.png)
+- [Carrie](images/mandala-carrie.png)
+- [Calvin](images/mandala-calvin.png)
+
