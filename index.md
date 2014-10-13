@@ -97,3 +97,21 @@ The people in orange will be the focus of this project.
 - [Carrie](images/mandala-carrie.png)
 - [Calvin](images/mandala-calvin.png)
 
+## Day in the Life
+[pdf](images/storyboard.pdf)
+
+## Photo credits
+
+- Manuel: <http://www.johnlund.com/Images/Mature-Hispanic-Man-portrait-10000200065[1].jpg>
+- Erica: <http://thumbs.dreamstime.com/z/pretty-middle-aged-woman-showing-ok-sign-14974619.jpg>
+- Gautam: <http://www.iitbombay.org/images/volunteer-of-the-month/RR.png/view> 
+- Carrie: <http://goldsea.com/Personalities/Zeeteddy/zeeteddy2.html>
+- Amelia: <http://www.goodhousekeeping.com/cm/goodhousekeeping/images/s6/dru-after-makeover-fb.jpg>
+- Ray: <http://www.istockphoto.com/photo/businessmen-in-city-29701618?st=ea60202>
+- Colin: <http://www.morguefile.com/archive/display/905612>
+- Andrew: <https://c1.staticflickr.com/5/4150/4993268434_8bb09cddd2_z.jpg>
+- Graham: <http://www.stockfreeimages.com/2761825/Child-Eating.html>
+- Calvin: <http://www.markcroftmusic.com/img/Rooftop_B_W_headshot_resize_resized.jpg>
+- Francesca: <http://www.flashcoo.com/photography/asian_children_photography/images/Cute_Asian_Children_photos_HU121_350A.jpg>
+- Emilia: <http://thumbs.dreamstime.com/z/very-happy-asian-baby-girl-23757603.jpg>
+
