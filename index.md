@@ -103,6 +103,14 @@ The people in orange will be the focus of this project.
 [script](script.txt)  
 [pdf](images/storyboard.pdf)
 
+## Post-project Reflections
+
+- What did you discover? How much it helps to pick attributes of people we know to help us come up with realistic personas. How mobility can be a theme that will so radically influence our lives, and therefore is worth thinking about in broad terms in the future. How this helps us bring the big themes down to the personal level, and help us think about particular technologies that might or might not happen in this future world.
+- What were you challenged by? Getting into people's heads. Coming up with realistic people. Making sure that our group was diverse enough to encompass a wide range of human experiences (without being all over the place).
+- What did you question? How different the future is really going to be, in the day to day world. I can't imagine it being so much different than it is now, and indeed, when I think about the 20-some years of past that I've experienced, it doesn't seem like the world is so different. But that's also because I've experienced it gradually. I found myself wondering if the emotional content of everyday people would be different; how the future could possibly feel different due to centralizing cities and power.
+- What did you do well? I came up with a somewhat believable family, and was able to see a day in their lives as it would intersect many themes of the future. I was able to remain focused around the theme of mobility, without having it consume every minute of every persona's day.
+- What would you do differently? I still felt like I was not far enough in the future. Or like it was selective. Sure, I had humanoid babysitter/telepresence robots and Google cars, but they felt like toys or ornaments in my story. What would life feel like when those things are just taken for granted? That's the mindset I'd like to get into.
+
 ## Photo credits
 
 - Manuel: <http://www.johnlund.com/Images/Mature-Hispanic-Man-portrait-10000200065[1].jpg>
